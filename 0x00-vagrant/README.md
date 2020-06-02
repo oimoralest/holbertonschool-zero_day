@@ -1,0 +1,1 @@
+**The file in this folder has the print of the command uname when you run it without any option**
